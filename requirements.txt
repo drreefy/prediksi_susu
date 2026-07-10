@@ -6,3 +6,4 @@ scikit-learn
 shap
 joblib
 openpyxl
+matplotlib
